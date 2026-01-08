@@ -57,7 +57,7 @@ Avoids dependency conflicts.
 Installs required libraries.
 
 4.Prepare data
-
+Run data_fetcher.py file in python to fetch images. I had used mapbox token to do so. you may use your own API token.
 Images must align with CSV entries.
 
 5.Run the notebook
